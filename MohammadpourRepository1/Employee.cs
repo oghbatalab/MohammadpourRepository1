@@ -10,5 +10,7 @@ namespace MohammadpourRepository1
     {
         public string name { get; set; }
         public string family { get; set; }
+
+        public int id { get; set; }
     }
 }
