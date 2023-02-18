@@ -9,3 +9,6 @@ employee.name = "REza";
 employee.family = "MOhammadpour";
 
 employee.id = 1200;
+
+
+Console.WriteLine($"Employee: {employee.id}, {employee.name}, {employee.family}");
