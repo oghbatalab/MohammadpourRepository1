@@ -4,3 +4,6 @@ using MohammadpourRepository1;
 Console.WriteLine("Hello, World!");
 
 Employee employee = new Employee();
+
+employee.name = "REza";
+employee.family = "MOhammadpour";
